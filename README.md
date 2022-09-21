@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
