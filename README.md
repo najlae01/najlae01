@@ -42,6 +42,6 @@
 <br/>
 <br/>
 
-### Top Languages
+  ### Top Languages
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=dark&bg_color=0A0A0A" alt="Najlae's Top Languages"/>
