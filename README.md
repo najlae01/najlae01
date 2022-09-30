@@ -42,4 +42,4 @@
 <br/>
 <br/>
 
-<img  display="block" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=dark&bg_color=0A0A0A" alt="Najlae's Top Languages"/>
+<img display="block" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=dark&bg_color=0A0A0A" alt="Najlae's Top Languages"/>
