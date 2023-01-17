@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Unity 🎲
+- 🥅 2023 Goals: Learn more about Game Development  🎲
 
 ### Connect with me:
 
