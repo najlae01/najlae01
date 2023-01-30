@@ -35,8 +35,7 @@
 <img align="left" alt="Node.js" width="45px" src="./img/nodejs2.png" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="56px" src="./img/spring2.png" style="padding-right:10px;" />
-<img align="left" alt="Vaadin" width="26px" src="./img/vaadin.jpg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="58px" src="./img/spring2.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="45px" src="./img/mysql2.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
