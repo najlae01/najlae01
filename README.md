@@ -34,7 +34,7 @@
 <img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
 
 
- <img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
+ <img alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
 <img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
