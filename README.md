@@ -23,7 +23,7 @@
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="./img/js2.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="36px" src="./img/java2.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="45px" src="./img/java2.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
 <img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
@@ -34,11 +34,11 @@
 <img align="left" alt="React" width="36px" src="./img/react2.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="45px" src="./img/nodejs2.png" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="36px" src="./img/solidity2.png" style="padding-right:10px;" />
-<img align="left" alt="Ethereum" width="36px" src="./img/ethereum2.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="36px" src="./img/spring2.png" style="padding-right:10px;" />
 <img align="left" alt="Vaadin" width="26px" src="./img/vaadin.jpg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="36px" src="./img/mysql2.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="45px" src="./img/mysql2.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="36px" src="./img/git.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
