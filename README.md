@@ -23,7 +23,7 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="36px" src="./img/js2.png" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="34px" src="./img/js2.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="43px" src="./img/java2.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
