@@ -11,7 +11,7 @@
 [<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
 &nbsp;&nbsp;
 
-[<img align="left" alt="twitter" width="40px" src="./img/twitter.svg" style="padding-right:10px;" /](https://twitter.com/najlaaaae0)
+[<img align="left" alt="twitter" width="40px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/najlaaaae0)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
