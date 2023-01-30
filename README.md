@@ -37,6 +37,7 @@
 <img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
+<img align="left" alt="Oracle" width="50px" src="./img/oracle2.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 
 
