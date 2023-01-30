@@ -19,9 +19,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="./img/java2.png" style="padding-right:10px;" />
-<img align="left" alt="C sharp" width="26px" src="./img/csharp2.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="./img/python2.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="36px" src="./img/java2.png" style="padding-right:10px;" />
+<img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="./img/cpp.png" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="./img/php2.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="./img/laravel.png" style="padding-right:10px;" />
