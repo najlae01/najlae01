@@ -31,7 +31,6 @@
 <img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
 
 
-  <img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="36px" src="./img/react2.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
