@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin2.png" style="padding-right:10px;" target="_blank" />](https://linkedin.com/in/najlae-abarghache)
+[<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin2.png" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
 
-[<img align="left" alt="twitter" width="40px" src="./img/twitter2.png" style="padding-right:10px;" target="_blank" />](https://twitter.com/najlaaaae0)
+[<img align="left" alt="twitter" width="40px" src="./img/twitter2.png" style="padding-right:10px;" />](https://twitter.com/najlaaaae0)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
