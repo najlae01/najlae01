@@ -16,23 +16,23 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="./html2.png" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="36px" src="./img/js2.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="36px" src="./img/java2.png" style="padding-right:10px;" />
 <img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="./img/cpp.png" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="./img/php2.png" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="./img/laravel.png" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="26px" src="./img/angular2.png" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="./img/react2.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="./img/nodejs2.png" style="padding-right:10px;" />
+<img align="left" alt="C++" width="30px" src="./img/cpp.png" style="padding-right:10px;" />
+<img align="left" alt="Php" width="36px" src="./img/php2.png" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="36px" src="./img/react2.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="36px" src="./img/nodejs2.png" style="padding-right:10px;" />
 <img align="left" alt="Vaadin" width="26px" src="./img/vaadin.jpg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="./img/mongodb2.png" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="./img/mysql2.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./img/git2.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="36px" src="./img/mongodb2.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="36px" src="./img/mysql2.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br/> 
 <br/>
