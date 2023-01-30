@@ -19,7 +19,7 @@
 <img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="36px" src="./img/blender2.png" style="padding-right:10px;" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="./img/js2.png" style="padding-right:10px;" />
@@ -32,7 +32,7 @@
 <img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
 <img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="36px" src="./img/react2.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="36px" src="./img/nodejs2.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="42px" src="./img/nodejs2.png" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="36px" src="./img/solidity2.png" style="padding-right:10px;" />
 <img align="left" alt="Ethereum" width="36px" src="./img/ethereum2.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
