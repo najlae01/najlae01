@@ -23,7 +23,7 @@
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="./img/js2.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="45px" src="./img/java2.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="43px" src="./img/java2.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
 <img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
@@ -40,12 +40,13 @@
 <img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 
-&nbsp;&nbsp;
+
+ &nbsp;&nbsp;
 &nbsp;&nbsp;
 <br/> 
 <br/>
 
-### GitHub Stats:
+ ### GitHub Stats:
 
 <img align="center" alt="najlae01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=najlae01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
