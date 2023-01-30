@@ -40,12 +40,14 @@
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 
 
+
  &nbsp;&nbsp;
+&nbsp;&nbsp;
 &nbsp;&nbsp;
 <br/> 
 <br/>
 
- ### GitHub Stats:
+  ### GitHub Stats:
 
 <img align="center" alt="najlae01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=najlae01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
