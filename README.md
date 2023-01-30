@@ -1,14 +1,17 @@
 # Hi there, I'm Najlae 👋 
 
-## I'm a Software Development Student 💻
+## I'm currently a Software Development Student 💻 and I'm soon to become an Indie Game Developer 🎮
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Game Development  🎲
+- 🎲 I’m currently learning 3d modeling in blender
+- 👯 I’m looking to connect with more artists and game developers
+- 🥅 2023 Goals: Learn more about Game Development 🎮
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
+&nbsp;&nbsp;
+
+[<img align="left" alt="twitter" width="40px" src="./img/twitter.svg" style="padding-right:10px;" /](https://twitter.com/najlaaaae0)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
