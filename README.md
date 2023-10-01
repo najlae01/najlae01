@@ -2,7 +2,7 @@
 
 ## I'm currently a Software Engineering Student 💻
 
-- 🎲 I’m currently learning 3d modeling in blender
+- 🎲 I’m currently learning three.js
 - 👯 I’m looking to connect with more artists and game developers
 - 🥅 2023 Goals: Learn more about Game Development 🎮
 
