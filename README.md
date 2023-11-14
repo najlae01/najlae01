@@ -42,6 +42,8 @@
 <img align="left" alt="Oracle" width="50px" src="./img/oracle2.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 
+<br/> 
+<br/>
 
 &nbsp;&nbsp;
 
