@@ -50,13 +50,6 @@
 &nbsp;&nbsp;
 
 
-<br>
-<br>
-
-<h1 align="center">📫 You can reach me via Discord</h1>
-
-<p align="center"><img src="https://discord.c99.nl/widget/theme-4/770717146291765268.png"></p>
-
 
   ### GitHub Stats:
 
@@ -66,3 +59,11 @@
 <br/>
 
 <img display="block" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=dark&bg_color=0A0A0A" alt="Najlae's Top Languages"/>
+
+
+<br>
+<br>
+
+<h1 align="center">📫 You can reach me via Discord</h1>
+
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/770717146291765268.png"></p>
