@@ -6,7 +6,6 @@
 - 👯 I’m looking to connect with more artists and game developers
 - 🥅 2023 Goals: Learn more about Game Development 🎮
 
-&nbsp;
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin2.png" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
