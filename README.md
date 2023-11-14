@@ -1,7 +1,7 @@
 # Hi there, I'm Najlae 👋 
 
 ## I'm currently a Software Engineering Student 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=435&lines=Welcome+to+my+Github!;I'm+currently+a+Software+Engineering+Student;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=440&lines=Welcome+to+my+Github!;I'm+currently+a+Software+Engineering+Student;" alt="Typing SVG" /></a>
 
 - 🎲 I’m currently learning three.js
 - 👯 I’m looking to connect with more artists and game developers
