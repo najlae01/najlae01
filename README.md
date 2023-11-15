@@ -52,5 +52,5 @@
 
 
 ### My Programming Stats
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=najlae01&count_private=true&include_all_commits=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a2&custom_title=Stats" alt="najlae01's GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=najlae01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a2" alt="najlae01's GitHub Time Stats" /> |
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=najlae01&count_private=true&include_all_commits=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=001F1E&custom_title=Stats" alt="najlae01's GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=najlae01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=001F1E" alt="najlae01's GitHub Time Stats" /> |
 | ------------- | ------------- |
