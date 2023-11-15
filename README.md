@@ -53,6 +53,7 @@
 
 ### My Programming Stats
 | [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=najlae01&theme=dark&background=000000)](https://git.io/streak-stats) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | |
 | ------------- | ------------- |
 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | 
+| ------------- | 
