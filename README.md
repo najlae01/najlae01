@@ -16,7 +16,7 @@
 
 <br/> 
 
-### Languages and Tools:
+### My Languages and Tools:
 <img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
 <img align="left" alt="Unreal" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
@@ -50,8 +50,7 @@
 
 &nbsp;&nbsp;
 
-### GitHub Stats:
-<img alt="najlae01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=najlae01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=dark&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Najlae's Top Languages"/>
 
-
+### My Programming Stats
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=najlae01&count_private=true&include_all_commits=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a2&custom_title=Stats" alt="najlae01's GitHub Stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=najlae01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a2" alt="najlae01's GitHub Time Stats" /> |
+| ------------- | ------------- |
