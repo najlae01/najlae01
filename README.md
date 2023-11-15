@@ -52,5 +52,5 @@
 
 
 ### My Programming Stats
-| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true&Background=0D1117&Border=DDDDDD)](https://git.io/awesome-stats-card) | <img align="center" width="150%" height="400" src="https://wakatime.com/share/@018bd2c7-8a63-49f4-86d0-388e483f1101/df15de28-8099-451b-80ad-b69ee7f4155f.svg" alt="najlae01's GitHub Time Stats" /> |
+| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true&Background=0D1117&Border=DDDDDD)](https://git.io/awesome-stats-card) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
