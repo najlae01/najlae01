@@ -52,5 +52,5 @@
 
 
 ### My Programming Stats
-| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark&width=200)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=najlae01&theme=dark)](https://git.io/streak-stats)
+| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark&height=200)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=najlae01&theme=dark)](https://git.io/streak-stats)
 | ------------- | ---------------- | ------------- |
