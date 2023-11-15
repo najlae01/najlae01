@@ -52,5 +52,5 @@
 
 
 ### My Programming Stats
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=najlae01&count_private=true&include_all_commits=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=001F1E&custom_title=Stats" alt="najlae01's GitHub Stats" /> | <img align="center" width="150%" height="400" src="https://wakatime.com/share/@018bd2c7-8a63-49f4-86d0-388e483f1101/df15de28-8099-451b-80ad-b69ee7f4155f.svg" alt="najlae01's GitHub Time Stats" /> |
+| [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level-alternate&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card) | <img align="center" width="150%" height="400" src="https://wakatime.com/share/@018bd2c7-8a63-49f4-86d0-388e483f1101/df15de28-8099-451b-80ad-b69ee7f4155f.svg" alt="najlae01's GitHub Time Stats" /> |
 | ------------- | ------------- |
