@@ -4,7 +4,7 @@
 
 - 🎲 I’m currently working on various projects
 - 👯 I’m looking to connect with more artists and game developers
-- 🥅 2023 Goals: Learn more about Game Development 🎮
+- 🥅 2024 Goal: Make more tech Art Projects🎮
 
 
 ### Connect with me:
