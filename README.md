@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=490&lines=Welcome+to+my+Profile!;I'm+currently+a+Software+Engineering+Student+💻;" alt="Typing SVG" /></a>
 
 - 🎲 I’m currently working on various projects
-- 👯 I’m looking to connect with more artists and game developers
-- 🥅 2024 Goal: Make more Tech Art Projects🎮
+- 🥅 2024 Goal: Contribute to Open Source Projects🎮
 
 
 ### Find me on:
