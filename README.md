@@ -55,3 +55,9 @@
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | 
 | ------------- | 
+
+
+### Tags
+- **college-project Tag**: Projects related to my academic studies.
+- **hobby-project Tag**: Personal projects I work on in my free time.
+- **cs50 Tag**: Projects related to the CS50 course.
