@@ -57,7 +57,6 @@
 | ------------- | 
 
 <br/> 
-
 ### Tags
 - **college-project Tag**: Projects related to my academic studies.
 - **hobby-project Tag**: Personal projects I work on in my free time.
