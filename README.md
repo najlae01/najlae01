@@ -59,5 +59,5 @@
 
 ### Tags
 - **college-project Tag**: Projects related to my academic studies.
-- **hobby-project Tag**: Personal projects I work on in my free time.
+- **hobby-project Tag**: Personal projects I work on in my free time for fun and/or learning purposes.
 - **cs50 Tag**: Projects related to the CS50 course.
