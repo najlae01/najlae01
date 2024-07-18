@@ -7,7 +7,6 @@
 
 ### Find me on:
 [<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin2.png" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
-[<img align="left" alt="LeetCode" width="40px" src="./img/LeetCode_Logo_1.png" style="padding-right:10px;" />](https://leetcode.com/najlae0998/)
 
 &nbsp;&nbsp;
 
