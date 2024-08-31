@@ -12,34 +12,58 @@
 
 <br/> 
 
-### My Languages and Tools:
-<img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
-<img align="left" alt="Unreal" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
-<img align="left" alt="Blender" width="36px" src="./img/blender2.png" style="padding-right:10px;" />
+### Languages:
+<img align="left" alt="JavaScript" width="34px" src="./img/js2.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="./img/cpp.png" style="padding-right:10px;" />
+<img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
+<img align="left" alt="Java" width="43px" src="./img/java2.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="36px" src="./img/typescript.png" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="36px" src="./img/lua.png" style="padding-right:10px;" />
 <img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Shell Scripting" width="36px" src="./img/shell-scripting.jpg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="36px" src="./img/php2.png" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="36px" src="./img/sql.png" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="34px" src="./img/js2.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="43px" src="./img/java2.png" style="padding-right:10px;" />
-<img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="36px" src="./img/python2.png" style="padding-right:10px;" />
-<img align="left" alt="Php" width="36px" src="./img/php2.png" style="padding-right:10px;" />
 
-
-  <img  alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
-<img align="left" alt="React" width="36px" src="./img/react2.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
-<img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
+### Databases:
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="50px" src="./img/oracle2.png" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="50px" src="./img/postgresql.png" style="padding-right:10px;" />
+
+### Frameworks & Libraries:
+<img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
+<img align="left" alt="ReactJs" width="36px" src="./img/react2.png" style="padding-right:10px;" />
+<img align="left" alt="Three.js" width="50px" src="./img/three-js.png" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
+<img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="50px" src="./img/express-js.png" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
+
+### Tools & Technologies:
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
+<img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="36px" src="./img/postman.png" style="padding-right:10px;" />
+<img align="left" alt="Vercel" width="36px" src="./img/vercel.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+### Other:
+<img align="left" alt="Linux" width="36px" src="./img/linux.png" style="padding-right:10px;" />
+<img align="left" alt="Graph Theory" width="36px" src="./img/graph-theory.png" style="padding-right:10px;" />
+<img align="left" alt="Hadoop" width="36px" src="./img/hadoop.png" style="padding-right:10px;" />
+<img align="left" alt="PySpark" width="36px" src="./img/pyspark.png" style="padding-right:10px;" />
+<img align="left" alt="Power BI" width="36px" src="./img/power-bi.png" style="padding-right:10px;" />
+<img align="left" alt="Scrum" width="36px" src="./img/scrum.png" style="padding-right:10px;" />
+<img align="left" alt="Unreal Engine 5" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
+<img align="left" alt="Blender" width="36px" src="./img/blender2.png" style="padding-right:10px;" />
+
 
 <br/> 
 <br/>
