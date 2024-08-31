@@ -51,6 +51,18 @@
 
 <br/><br/>
 
+### Artificial Intelligence:
+
+<img align="left" alt="Regression" width="36px" src="./img/regression.png" style="padding-right:10px;" />
+<img align="left" alt="Classification" width="36px" src="./img/classification.png" style="padding-right:10px;" />
+<img align="left" alt="Reinforcement Learning" width="50px" src="./img/reinforcement-learning.png" style="padding-right:10px;" />
+<img align="left" alt="scikit-learn" width="70px" src="./img/scikit-learn.png" style="padding-right:10px;" />
+<img align="left" alt="OpenCV" width="36px" src="./img/opencv.png" style="padding-right:10px;" />
+<img align="left" alt="OpenGL" width="50px" src="./img/opengl.png" style="padding-right:10px;" />
+<img align="left" alt="dlib" width="50px" src="./img/dlib.png" style="padding-right:10px;" />
+
+<br/><br/>
+
 ### Tools & Technologies:
 
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
