@@ -4,15 +4,14 @@
 
 - 🎲 I’m currently working on various projects
 
-
 ### Find me on:
+
 [<img align="left" alt="LinkedIn" width="40px" src="./img/linkedin2.png" style="padding-right:10px;" />](https://linkedin.com/in/najlae-abarghache)
 
-&nbsp;&nbsp;
-
-<br/> 
+<br/><br/> 
 
 ### Languages:
+
 <img align="left" alt="JavaScript" width="34px" src="./img/js2.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="./img/cpp.png" style="padding-right:10px;" />
 <img align="left" alt="C" width="36px" src="./img/c2.png" style="padding-right:10px;" />
@@ -28,15 +27,19 @@
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
 
+<br/><br/>
 
- ### Databases:
+### Databases:
+
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="50px" src="./img/oracle2.png" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="50px" src="./img/postgresql.png" style="padding-right:10px;" />
 
- 
- ### Frameworks & Libraries:
+<br/><br/>
+
+### Frameworks & Libraries:
+
 <img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
 <img align="left" alt="ReactJs" width="36px" src="./img/react2.png" style="padding-right:10px;" />
 <img align="left" alt="Three.js" width="50px" src="./img/three-js.png" style="padding-right:10px;" />
@@ -46,8 +49,10 @@
 <img align="left" alt="Express.js" width="50px" src="./img/express-js.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
 
- 
- ### Tools & Technologies:
+<br/><br/>
+
+### Tools & Technologies:
+
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
@@ -56,8 +61,10 @@
 <img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
- 
- ### Other:
+<br/><br/>
+
+### Other:
+
 <img align="left" alt="Linux" width="36px" src="./img/linux.png" style="padding-right:10px;" />
 <img align="left" alt="Graph Theory" width="36px" src="./img/graph-theory.png" style="padding-right:10px;" />
 <img align="left" alt="Hadoop" width="36px" src="./img/hadoop.png" style="padding-right:10px;" />
@@ -68,22 +75,18 @@
 <img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="36px" src="./img/blender2.png" style="padding-right:10px;" />
 
-
-<br/> 
-<br/>
-
-&nbsp;&nbsp;
-
+<br/><br/><br/> 
 
 ### My Programming Stats
+
 | [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/najlae01?cardType=level&theme=dark&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=najlae01&theme=dark&background=000000)](https://git.io/streak-stats) |
 | ------------- | ------------- |
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najlae01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) | 
 | ------------- | 
 
-
 ### Tags
+
 - **college-project Tag**: Projects related to my academic studies.
 - **hobby-project Tag**: Personal projects I work on in my free time for fun and/or learning purposes.
 - **cs50 Tag**: Projects related to the CS50 course.
