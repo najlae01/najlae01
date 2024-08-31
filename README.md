@@ -28,13 +28,15 @@
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="36px" src="./img/css2.png" style="padding-right:10px;" />
 
-### Databases:
+
+ ### Databases:
 <img align="left" alt="MongoDB" width="45px" src="./img/mongodb2.png" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="50px" src="./img/mysql2.png" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="50px" src="./img/oracle2.png" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="50px" src="./img/postgresql.png" style="padding-right:10px;" />
 
-### Frameworks & Libraries:
+ 
+ ### Frameworks & Libraries:
 <img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
 <img align="left" alt="ReactJs" width="36px" src="./img/react2.png" style="padding-right:10px;" />
 <img align="left" alt="Three.js" width="50px" src="./img/three-js.png" style="padding-right:10px;" />
@@ -44,7 +46,8 @@
 <img align="left" alt="Express.js" width="50px" src="./img/express-js.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
 
-### Tools & Technologies:
+ 
+ ### Tools & Technologies:
 <img align="left" alt="Git" width="36px" src="./img/git2.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
@@ -53,7 +56,8 @@
 <img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-### Other:
+ 
+ ### Other:
 <img align="left" alt="Linux" width="36px" src="./img/linux.png" style="padding-right:10px;" />
 <img align="left" alt="Graph Theory" width="36px" src="./img/graph-theory.png" style="padding-right:10px;" />
 <img align="left" alt="Hadoop" width="36px" src="./img/hadoop.png" style="padding-right:10px;" />
