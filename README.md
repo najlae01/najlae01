@@ -21,7 +21,7 @@
 <img align="left" alt="Lua" width="36px" src="./img/lua.png" style="padding-right:10px;" />
 <img align="left" alt="C sharp" width="36px" src="./img/csharp2.png" style="padding-right:10px;" />
 <img align="left" alt="Shell Scripting" width="36px" src="./img/shell-scripting.jpg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="36px" src="./img/php2.png" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="40px" src="./img/php2.png" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="36px" src="./img/sql.png" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="36px" src="./img/solidity.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="36px" src="./img/html2.png" style="padding-right:10px;" />
@@ -43,7 +43,7 @@
 <img align="left" alt="Angular" width="36px" src="./img/angular2.png" style="padding-right:10px;" />
 <img align="left" alt="ReactJs" width="36px" src="./img/react2.png" style="padding-right:10px;" />
 <img align="left" alt="Three.js" width="50px" src="./img/three-js.png" style="padding-right:10px;" />
-<img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="80px" src="./img/spring2.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
 <img align="left" alt="Express.js" width="40px" src="./img/express-js.png" style="padding-right:10px;" />
@@ -58,7 +58,7 @@
 <img align="left" alt="Reinforcement Learning" width="36px" src="./img/reinforcement-learning.png" style="padding-right:10px;" />
 <img align="left" alt="scikit-learn" width="70px" src="./img/scikit-learn.png" style="padding-right:10px;" />
 <img align="left" alt="OpenCV" width="36px" src="./img/opencv.png" style="padding-right:10px;" />
-<img align="left" alt="OpenGL" width="50px" src="./img/opengl.png" style="padding-right:10px;" />
+<img align="left" alt="OpenGL" width="70px" src="./img/opengl.png" style="padding-right:10px;" />
 <img align="left" alt="dlib" width="50px" src="./img/dlib.png" style="padding-right:10px;" />
 
 <br/><br/>
