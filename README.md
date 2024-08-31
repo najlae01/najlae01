@@ -46,8 +46,8 @@
 <img align="left" alt="Spring" width="70px" src="./img/spring2.png" style="padding-right:10px;" />
 <img align="left" alt="Spring Boot" width="36px" src="./img/spring-boot2.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="50px" src="./img/nodejs2.png" style="padding-right:10px;" />
-<img align="left" alt="Express.js" width="50px" src="./img/express-js.png" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="30px" src="./img/laravel.png" style="padding-right:10px;" />
+<img align="left" alt="Express.js" width="40px" src="./img/express-js.png" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="40px" src="./img/laravel.png" style="padding-right:10px;" />
 
 <br/><br/>
 
@@ -55,7 +55,7 @@
 
 <img align="left" alt="Regression" width="36px" src="./img/regression.png" style="padding-right:10px;" />
 <img align="left" alt="Classification" width="36px" src="./img/classification.png" style="padding-right:10px;" />
-<img align="left" alt="Reinforcement Learning" width="50px" src="./img/reinforcement-learning.png" style="padding-right:10px;" />
+<img align="left" alt="Reinforcement Learning" width="36px" src="./img/reinforcement-learning.png" style="padding-right:10px;" />
 <img align="left" alt="scikit-learn" width="70px" src="./img/scikit-learn.png" style="padding-right:10px;" />
 <img align="left" alt="OpenCV" width="36px" src="./img/opencv.png" style="padding-right:10px;" />
 <img align="left" alt="OpenGL" width="50px" src="./img/opengl.png" style="padding-right:10px;" />
@@ -78,8 +78,8 @@
 
 <img align="left" alt="Linux" width="36px" src="./img/linux.png" style="padding-right:10px;" />
 <img align="left" alt="Graph Theory" width="36px" src="./img/graph-theory.png" style="padding-right:10px;" />
-<img align="left" alt="Hadoop" width="36px" src="./img/hadoop.png" style="padding-right:10px;" />
-<img align="left" alt="PySpark" width="36px" src="./img/pyspark.png" style="padding-right:10px;" />
+<img align="left" alt="Hadoop" width="50px" src="./img/hadoop.png" style="padding-right:10px;" />
+<img align="left" alt="PySpark" width="50px" src="./img/pyspark.png" style="padding-right:10px;" />
 <img align="left" alt="Power BI" width="30px" src="./img/power-bi.png" style="padding-right:10px;" />
 <img align="left" alt="Scrum" width="36px" src="./img/scrum.png" style="padding-right:10px;" />
 <img align="left" alt="Unreal Engine 5" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
