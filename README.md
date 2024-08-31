@@ -57,7 +57,6 @@
 <img align="left" alt="Docker" width="36px" src="./img/docker.png" style="padding-right:10px;" />
 <img align="left" alt="REST APIs" width="36px" src="./img/rest-api.png" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="36px" src="./img/postman.png" style="padding-right:10px;" />
-<img align="left" alt="Vercel" width="36px" src="./img/vercel.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="36px" src="./img/visual-studio2.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -69,7 +68,7 @@
 <img align="left" alt="Graph Theory" width="36px" src="./img/graph-theory.png" style="padding-right:10px;" />
 <img align="left" alt="Hadoop" width="36px" src="./img/hadoop.png" style="padding-right:10px;" />
 <img align="left" alt="PySpark" width="36px" src="./img/pyspark.png" style="padding-right:10px;" />
-<img align="left" alt="Power BI" width="36px" src="./img/power-bi.png" style="padding-right:10px;" />
+<img align="left" alt="Power BI" width="30px" src="./img/power-bi.png" style="padding-right:10px;" />
 <img align="left" alt="Scrum" width="36px" src="./img/scrum.png" style="padding-right:10px;" />
 <img align="left" alt="Unreal Engine 5" width="36px" src="./img/unreal2.png" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="36px" src="./img/unity.png" style="padding-right:10px;" />
